@@ -1,8 +1,8 @@
 # Pill 💊
 
-![pill](pill.png)
+![pill](pill-brand.png)
 
-Kill the specific port.
+Pill is a script to kill the specific port.
 
 # Code
 
