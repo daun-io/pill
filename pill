@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Set the port number that you want to kill
+port=$1
+
+# Find the process ID of the process that is using the port
+pid=$(lsof -ti :$port)
+
+# If the process ID was found, kill the process
+if [ -n "$pid" ]; then
+  kill $pid
+fi
