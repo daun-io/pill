@@ -7,7 +7,7 @@ Kill the specific port.
 
 # How to install
 
-```
+```bash
 git clone https://github.com/daun-io/pill.git
 cd pill
 sudo cp pill /usr/local/bin
