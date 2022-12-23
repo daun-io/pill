@@ -1,4 +1,7 @@
 # Pill 💊
+
+![pill](pill.png)
+
 Kill the specific port.
 
 # Code
