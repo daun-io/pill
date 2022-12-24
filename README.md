@@ -25,7 +25,14 @@ if [ -n "$pid" ]; then
 fi
 ```
 
-# How to install
+# Usage
+
+```bash
+pill 3000
+pill 8080
+```
+
+# Installation
 
 ```bash
 git clone https://github.com/daun-io/pill.git
